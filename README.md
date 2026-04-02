@@ -116,15 +116,3 @@ Realistic routes based on Landline's actual service areas:
 Children 12 & under ride free on all routes. Trips are materialized 180 days out.
 
 ---
-
-
-## AI Tools Used
-
-I used **Cursor IDE** (Claude) for:
-
-- Drafting the architecture document and evaluating design trade-offs
-- Scaffolding the FastAPI backend, React frontend, and Docker configuration
-- Generating seed data SQL with realistic Landline route/schedule information
-- Writing the concurrency-controlled booking service
-
-All AI output was reviewed and iterated on for correctness, consistency with the architecture, and production readiness.
